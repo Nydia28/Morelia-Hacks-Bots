@@ -12,11 +12,7 @@
                 <a href="<?php echo base_url();?>inicio/publicos" class="col-sm-12 btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
               </div></a>
               <div class="col-sm-3 col-md-offset-2">
-<<<<<<< HEAD
-                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Candidatos1 <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
-=======
                 <a href="<?php echo base_url();?>inicio/candidatos" class="col-sm-12 btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
->>>>>>> a9e50e9f60a89a7c6e4be921f27e5a3135aa9421
               </div>
             </div>
           </div>
