@@ -35,6 +35,7 @@
   <link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
 
   <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
 
   <!-- Choose your default colors -->
   <link rel="stylesheet" href="<?php echo base_url();?>assets/css/color1.css">

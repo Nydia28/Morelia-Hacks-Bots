@@ -334,10 +334,10 @@
 
                 <div class=" tarjetas col-sm-12 z-depth-4">
                   <div class="col-sm-2">
-                    <img src="assets/images/alfonso.jpg" alt="" class="circle" style="max-height: 94px;">
+                    <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
                   </div>
                   <div class="col-sm-10 left-align">
-                  <span class="title-collection">Nombre del personito 1</span>
+                  <span class="title-collection">1.- @juan_perez</span>
                     <p class="text-collection"># de Reteewts<br>
                      # de Me gusta
                    </p>
@@ -346,10 +346,10 @@
 
                <div class=" tarjetas col-sm-12 z-depth-4">
                 <div class="col-sm-2">
-                  <img src="assets/images/alfonso.jpg" alt="" class="circle" style="max-height: 94px;">
+                  <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
                 </div>
                 <div class="col-sm-10 left-align">
-                  <span class="title-collection">Nombre del personito 2</span>
+                  <span class="title-collection">2.- @pedro_suarez</span>
                   <p class="text-collection "># de Reteewts<br>
                    # de Me gusta
                  </p>
@@ -358,10 +358,10 @@
 
              <div class=" tarjetas col-sm-12 z-depth-4">
               <div class="col-sm-2">
-                <img src="assets/images/alfonso.jpg" alt="" class="circle" style="max-height: 94px;">
+                <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
               </div>
               <div class="col-sm-10 left-align">
-                <span class="title-collection">Nombre del personito 3</span>
+                <span class="title-collection">3.- @alberto_lopez</span>
                 <p class="text-collection"># de Reteewts<br>
                  # de Me gusta
                </p>
