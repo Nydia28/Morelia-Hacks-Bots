@@ -2097,3 +2097,12 @@ span.num {
     text-align: center;
   }
 }
+
+.card.small .card-image{
+  opacity: 0.6;
+}
+.card .card-title {
+    color: #000;
+    font-size: 24px;
+    font-weight: 500;
+}
