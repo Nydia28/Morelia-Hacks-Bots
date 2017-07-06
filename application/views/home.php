@@ -12,7 +12,6 @@
                 <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
               </div>
               <div class="col-sm-3 col-md-offset-2">
-                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
@@ -40,8 +39,6 @@
     <div class="row">
       <div class="clearfix about-inner">
 
-
-
         <div class="row">
           <div class="col s12">
             <ul class="tabs">
@@ -50,8 +47,6 @@
               <li class="tab col s4"><a href="#twitter">Twitter</a></li>
             </ul>
           </div>
-
-
 
           <div id="infopersonal" class="col s12" style="display: block;padding-top: 4%;">
             <div class="col-sm-12 col-md-4">
@@ -136,8 +131,13 @@
             <div class="row">
               <div class="clearfix section-head experience-text">
                 <div class="col-sm-12">
+<<<<<<< HEAD
+                  <h2 class="title">Experiencia</h2>
+                  <p class="regular-text">Lo que nuestros usuarios cuentan</p>
+=======
                   <h2 class="title">Top 10 Followers</h2>
                   <p class="regular-text">Descubre quienes son los usuarios que más impactan en twitter.</p>
+>>>>>>> 6ae421e8cbb464217f893bf9967dd0068fcddaf4
                 </div>
               </div>
               <div class="col-lg-12">
@@ -1001,7 +1001,7 @@
       ],
       borderWidth: 1,
       data: [7800],
-    } ,   
+    } ,
 
     {
       label: "Peñabots",
