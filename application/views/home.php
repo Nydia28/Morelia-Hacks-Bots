@@ -11,10 +11,10 @@
               <h1 class="home-title">Monitor <span>Ciudadano</span></h1>
               <h2 class="home-subtitle">Conoce a los que te representan</h2>
               <div class="col-sm-3 col-md-offset-2">
-                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
-              </div>
+                <a href="inicio/publicos" class="col-sm-12 btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
+              </div></a>
               <div class="col-sm-3 col-md-offset-2">
-                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
+                <a href="inicio/candidatos" class="col-sm-12 btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
@@ -56,17 +56,17 @@
 
 
           <div id="infopersonal" class="col s12" style="display: block;padding-top: 4%;">
+            <!-- about me description -->
+            <div class="col-sm-6 col-md-4">
+              <div class="person-img wow fadeIn">
+                <img class="z-depth-1" src="assets/images/alfonso.jpg" alt="">
+              </div>
+            </div>
             <div class="col-sm-12 col-md-4">
               <div class="person-about">
                 <h3 class="about-subtitle">Alfonso Martínez</h3>
                 <p>Presidente Municipal de Morelia</p>
                 <p>Descripciòn del candidato.... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec ipsum massa. Maecenas consectetur vestibulum felis, eu placerat elit luctus in. Ut turpis mi, bibendum ac venenatis in, sollicitudin ultricies odio. Nam vel erat felis. Fusce sapien risus, blandit ut pulvinar sit amet, porttitor vel nunc. Mauris purus mi, porta sit amet pharetra nec, bibendum tincidunt justo.</p>
-              </div>
-            </div>
-            <!-- about me description -->
-            <div class="col-sm-6 col-md-4">
-              <div class="person-img wow fadeIn">
-                <img class="z-depth-1" src="assets/images/alfonso.jpg" alt="">
               </div>
             </div>
             <!-- about me image -->
@@ -244,7 +244,6 @@
       </div>
     </div>
   </div>
-</section>
 </section>
 <!-- #resume Section end -->
 
