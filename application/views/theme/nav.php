@@ -32,21 +32,11 @@
                       </div>
                     </li><!-- mini profile end-->
 
-                    <li><a href="#about" d
-
-<<<<<<< HEAD
-                    <li><a href="<?php echo base_url();?>inicio/publicos" data-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>Servidores Públicos</a>
+                    <li><a href="<?php echo base_url();?>inicio/publicos"><i class="fa fa-user fa-fw"></i>Servidores Públicos</a>
                     </li>
-                    <li><a href="<?php echo base_url();?>inicio/candidatos" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Candidatos</a>
-=======
-
-
-                      ata-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>Servidores Públicos</a>
-                    </li>
-                    <li><a href="#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Candidatos</a>
+                    <li><a href="<?php echo base_url();?>inicio/candidatos"><i class="fa fa-file-text fa-fw"></i>Candidatos</a>
                     </li>
                     <li><a href="blog-with-sidebar.html">A cerca de nosotros</a>
->>>>>>> origin/master
                     </li>
                     <li><a href="<?php echo base_url();?>inicio/nosotros">A cerca de nosotros</a>
                     </li>

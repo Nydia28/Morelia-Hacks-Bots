@@ -9,13 +9,10 @@
               <h1 class="home-title">Monitor <span>Ciudadano</span></h1>
               <h2 class="home-subtitle">Conoce a los que te representan</h2>
               <div class="col-sm-3 col-md-offset-2">
-                <a href="inicio/publicos" class="col-sm-12 btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
+                <a href="<?php echo base_url();?>inicio/publicos" class="col-sm-12 btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
               </div></a>
               <div class="col-sm-3 col-md-offset-2">
-<<<<<<< HEAD
-                <a href="inicio/candidatos" class="col-sm-12 btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
-=======
->>>>>>> origin/master
+                <a href="<?php echo base_url();?>inicio/candidatos" class="col-sm-12 btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
