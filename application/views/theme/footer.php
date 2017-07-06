@@ -41,7 +41,7 @@
   <script src="<?php echo base_url();?>assets/js/waypoints.js"></script>
   <script src="<?php echo base_url();?>assets/js/jquery.counterup.min.js"></script>
   <script src="<?php echo base_url();?>assets/js/jquery.nicescroll.min.js"></script>
-  <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>
+  <!-- <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script> -->
   <script src="<?php echo base_url();?>assets/js/gmaps.js"></script>
   <script src="<?php echo base_url();?>assets/js/owl.carousel.min.js"></script>
   <script src="<?php echo base_url();?>assets/js/materialize.min.js"></script>
