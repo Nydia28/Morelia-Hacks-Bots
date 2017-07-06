@@ -308,8 +308,8 @@
             </div>
           </div>
           <div class="btn-wrapp skl-ctrl">
-            <a class="btn-floating waves-effect waves-light btn-large brand-bg white-text go go-left"><i class="mdi-navigation-chevron-left "></i></a>
-            <a class="btn-floating waves-effect waves-light btn-large brand-bg white-text go go-right"><i class="mdi-navigation-chevron-right "></i></a>
+            <a class="btn-floating waves-effect waves-light btn-large brand-bg white-text go go-left"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+            <a class="btn-floating waves-effect waves-light btn-large brand-bg white-text go go-right"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
           </div>
         </div>
       </div>
