@@ -1,5 +1,3 @@
-
-
 <!-- Home Section start -->
 <section id="home" class="scroll-section root-sec grey lighten-5 home-wrap">
   <div class="sec-overlay">
