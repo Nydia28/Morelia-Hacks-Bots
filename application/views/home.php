@@ -10,7 +10,9 @@
                   <div class="center-align home-content">
                     <h1 class="home-title">Monitor <span>Ciudadano</span></h1>
                     <h2 class="home-subtitle">UX/UI Designer from Dhaka, Bangladesh</h2>
-                    <a href="#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Servidores Publicos <i class="mdi-content-send left"></i>
+                    <a href="#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Servidores Públicos <i class="mdi-content-send left"></i>
+                    </a>
+                    <a href="#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Candidatos <i class="mdi-content-send left"></i>
                     </a>
                   </div>
               </div>
