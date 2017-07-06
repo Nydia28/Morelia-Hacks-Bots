@@ -131,13 +131,8 @@
             <div class="row">
               <div class="clearfix section-head experience-text">
                 <div class="col-sm-12">
-<<<<<<< HEAD
-                  <h2 class="title">Experiencia</h2>
-                  <p class="regular-text">Lo que nuestros usuarios cuentan</p>
-=======
                   <h2 class="title">Top 10 Followers</h2>
                   <p class="regular-text">Descubre quienes son los usuarios que más impactan en twitter.</p>
->>>>>>> 6ae421e8cbb464217f893bf9967dd0068fcddaf4
                 </div>
               </div>
               <div class="col-lg-12">
