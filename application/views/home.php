@@ -42,56 +42,63 @@
     <div class="row">
       <div class="clearfix about-inner">
 
-        <div class="col-sm-12 col-md-4">
-          <div class="person-about">
-            <h3 class="about-subtitle">Alfonso Martínez</h3>
-            <p>Presidente Municipal de Morelia</p>
-            <p>Descripciòn del candidato</p>
-
-            <a href="#" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-            <a href="#" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a href="#" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-google" aria-hidden="true"></i></a>
-
-          </div>
 
 
-
-        </div>
-        <!-- about me description -->
-
-        <div class="col-sm-6 col-md-4">
-          <div class="person-img wow fadeIn">
-            <img class="z-depth-1" src="assets/images/alfonso.jpg" alt="">
-          </div>
-        </div>
-        <!-- about me image -->
-
-        <div class="col-sm-6 col-md-4">
-          <div class="person-info">
-            <h3 class="about-subtitle">Información Personal</h3>
-            <h5><span>Nombre:</span> Alfonso</h5>
-            <h5><span>Telefono:</span> 54316254316</h5>
-            <h5><span>Dirección:</span> Morelia</h5>
-            <h5><span>Correo:</span> email@alfonso.com</h5>
-            <h5><span>Seguidores:</span> 10,000</h5>
-            <h5><span>Siguiendo:</span> 500</h5>
-          </div>
-
-          <div class="about-social">
-            <ul>
-              <li>
-                <a href="#" class="btn-floating waves-effect waves-light white"><i class="fa fa-twitter"></i></a>
-              </li>
-              <li>
-                <a href="#" class="btn-floating waves-effect waves-light white"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li>
-                <a href="#" class="btn-floating waves-effect waves-light white"><i class="fa fa-at"></i></a>
-              </li>
+        <div class="row">
+          <div class="col s12">
+            <ul class="tabs">
+              <li class="tab col s4"><a class="active" href="#infopersonal">Información personal</a></li>
+              <li class="tab col s4"><a href="#facebook">Facebook</a></li>
+              <li class="tab col s4"><a href="#twitter">Twitter</a></li>
             </ul>
           </div>
+
+
+
+          <div id="infopersonal" class="col s12" style="display: block;padding-top: 4%;">
+            <div class="col-sm-12 col-md-4">
+              <div class="person-about">
+                <h3 class="about-subtitle">Alfonso Martínez</h3>
+                <p>Presidente Municipal de Morelia</p>
+                <p>Descripciòn del candidato.... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec ipsum massa. Maecenas consectetur vestibulum felis, eu placerat elit luctus in. Ut turpis mi, bibendum ac venenatis in, sollicitudin ultricies odio. Nam vel erat felis. Fusce sapien risus, blandit ut pulvinar sit amet, porttitor vel nunc. Mauris purus mi, porta sit amet pharetra nec, bibendum tincidunt justo.</p>
+              </div>
+            </div>
+            <!-- about me description -->
+            <div class="col-sm-6 col-md-4">
+              <div class="person-img wow fadeIn">
+                <img class="z-depth-1" src="assets/images/alfonso.jpg" alt="">
+              </div>
+            </div>
+            <!-- about me image -->
+            <div class="col-sm-6 col-md-4">
+              <div class="person-info">
+                <h3 class="about-subtitle">Información Personal</h3>
+                <h5><span>Nombre:</span> Alfonso</h5>
+                <h5><span>Telefono:</span> 54316254316</h5>
+                <h5><span>Dirección:</span> Morelia</h5>
+                <h5><span>Correo:</span> email@alfonso.com</h5>
+                <h5><span>Seguidores:</span> 10,000</h5>
+                <h5><span>Siguiendo:</span> 500</h5>
+              </div>
+              <!-- about me info -->
+            </div>
+          </div>
+
+          <div id="facebook" class="col s12" style="display: block;padding-top: 4%;">
+            <div class="col m6 s12">
+              <canvas id="chart_forma_pago" width="350" height="200"></canvas>
+            </div>
+            <div class="col m6 s12">
+              <canvas id="chart_seccion_parcial" width="350" height="200"></canvas>
+            </div>
+          </div>
+
+          <div id="twitter" class="col s12" style="display: block;padding-top: 4%;">
+            <div class="col m6 s12 offset-m3" >
+              <canvas id="chart_seccion_total" width="350" height="200"></canvas>
+            </div>
+          </div>
         </div>
-        <!-- about me info -->
 
       </div>
     </div>
@@ -113,205 +120,10 @@
                 <p class="regular-text">A continuación presentamos la interacción en las redes sociales de los seguidores mas comunes del funcionario</p>
               </div>
             </div>
-
-            <!-- skills container -->
-            <div class="col-sm-12 col-md-6 col-md-offset-1">
-              <div class="skill-right">
-                <div id="skillSlider" class="clearfix skill-graph">
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="100%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">Photoshop</span>
-                            <div class="hr-wrap">
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">100%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="60%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">JavaScript</span>
-                            <div class="hr-wrap">
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">60%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="85%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">Illustrator</span>
-                            <div class="hr-wrap">
-
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">85%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="65%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">HTML</span>
-                            <div class="hr-wrap">
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">65%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="60%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">JavaScript</span>
-                            <div class="hr-wrap">
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">60%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="35%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">CSS</span>
-                            <div class="hr-wrap">
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">35%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="85%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">Illustrator</span>
-                            <div class="hr-wrap">
-
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">85%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="60%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">Wordpress</span>
-                            <div class="hr-wrap">
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">60%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="85%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">Illustrator</span>
-                            <div class="hr-wrap">
-
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">85%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                  <div class="single-skill">
-                    <div class="after-li">
-                      <div class="singel-hr">
-                        <div class="singel-hr-inner" data-height="60%">
-                          <div class="skill-visiable">
-                            <span class="skill-title">JavaScript</span>
-                            <div class="hr-wrap">
-                              <div class="hrc"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <span class="skill-count">60%</span>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- /single skill-->
-
-                  <!-- single skill -->
-                </div>
-              </div>
+            <div class="col-sm-12 col-md-8 col-md-offset-1" style="margin-top: 10%">
+              <canvas id="chart_seccion_total2" width="200" height="100"></canvas>
             </div>
-            <!-- /skills container -->
           </div>
-        </div>
-        <div class="btn-wrapp skl-ctrl">
-          <a class="btn-floating waves-effect waves-light btn-large brand-bg white-text go go-left"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
-          <a class="btn-floating waves-effect waves-light btn-large brand-bg white-text go go-right"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
         </div>
       </div>
     </div>
@@ -333,11 +145,11 @@
               <div class="col-lg-12">
 
                 <div class=" tarjetas col-sm-12 z-depth-4">
-                  <div class="col-sm-2">
+                  <div class="tarjetitas col-sm-2">
                     <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
                   </div>
-                  <div class="col-sm-10 left-align">
-                  <span class="title-collection">1.- @juan_perez</span>
+                  <div class="tarjetitas col-sm-10">
+                    <span class="title-collection">1.- @juan_perez</span>
                     <p class="text-collection"># de Reteewts<br>
                      # de Me gusta
                    </p>
@@ -345,10 +157,10 @@
                </div>
 
                <div class=" tarjetas col-sm-12 z-depth-4">
-                <div class="col-sm-2">
+                <div class="tarjetitas col-sm-2">
                   <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
                 </div>
-                <div class="col-sm-10 left-align">
+                <div class="tarjetitas col-sm-10">
                   <span class="title-collection">2.- @pedro_suarez</span>
                   <p class="text-collection "># de Reteewts<br>
                    # de Me gusta
@@ -357,10 +169,10 @@
              </div>
 
              <div class=" tarjetas col-sm-12 z-depth-4">
-              <div class="col-sm-2">
+              <div class="tarjetitas col-sm-2">
                 <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
               </div>
-              <div class="col-sm-10 left-align">
+              <div class="tarjetitas col-sm-10">
                 <span class="title-collection">3.- @alberto_lopez</span>
                 <p class="text-collection"># de Reteewts<br>
                  # de Me gusta
@@ -1150,3 +962,180 @@
   </div>
 </section>
 <!-- #contact Section end -->
+
+<script type="text/javascript" src="assets/js/Chart.bundle.js"></script>
+
+<script>
+  var ctx = document.getElementById("chart_forma_pago");
+  var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ["Encuesta de servicio"],
+      datasets: [{
+        label: 'Excelente',
+        data: [48],
+        backgroundColor: [
+        'rgba(75, 192, 192, 0.2)'
+        ],
+        borderColor: [
+        'rgba(75, 192, 192, 1)'
+        ],
+        borderWidth: 1
+      },
+      {
+        label: 'Bueno',
+        data: [60],
+        backgroundColor: [
+        'rgba(153, 102, 255, 0.2)'
+        ],
+        borderColor: [
+        'rgba(153, 102, 255, 1)'
+        ],
+        borderWidth: 1
+      },
+      {
+        label: 'Regular',
+        data: [4],
+        backgroundColor: [
+        'rgba(255, 206, 86, 0.2)'
+        ],
+        borderColor: [
+        'rgba(255, 206, 86, 1)'
+        ],
+        borderWidth: 1
+      },
+      {
+        label: 'Malo',
+        data: [10],
+        backgroundColor: [
+        'rgba(255, 99, 132, 0.2)'
+        ],
+        borderColor: [
+        'rgba(255,99,132,1)'
+        ],
+        borderWidth: 1
+      }
+      ]
+    },
+    options: {
+      scales: {
+        yAxes: [{
+          ticks: {
+            beginAtZero:true
+          }
+        }]
+      }
+    }
+  });
+
+  var cty = document.getElementById("chart_seccion_parcial");
+
+  var data = {
+    labels: [
+    "U. Orgànico",
+    "Bot",
+    "Desconocido"
+    ],
+    datasets: [
+    {
+      data: [45, 18, 37],
+      backgroundColor: [
+      "#84D0D0",
+      "#FAAF56",
+      "#B2B3B7"
+      ],
+      hoverBackgroundColor: [
+      "#0199A4",
+      "#FDB916",
+      "#4C4D4F"
+      ]
+    }]
+  };
+
+  var myDoughnutChart = new Chart(cty, {
+    type: 'doughnut',
+    data: data,
+    options: {
+      animation:{
+        animateScale:true
+      }
+    }
+  });
+
+  var ctz = document.getElementById("chart_seccion_total");
+
+  var data = {
+    labels: ["Estado financiero"],
+    datasets: [
+    {
+      label: "Bots",
+      backgroundColor: [
+      'rgba(255, 159, 64, 0.2)'
+      ],
+      borderColor: [
+      'rgba(255, 159, 64, 1)'
+      ],
+      borderWidth: 1,
+      data: [7800],
+    } ,   
+
+    {
+      label: "Peñabots",
+      backgroundColor: [
+      'rgba(105, 105, 105, 0.2)'
+      ],
+      borderColor: [
+      'rgba(105, 105, 105, 1)'
+      ],
+      borderWidth: 1,
+      data: [1029],
+    }
+    ]
+  };
+
+  var myChart = new Chart(ctz, {
+    type: 'bar',
+    data: data,
+    options: {
+      scales: {
+        yAxes: [{
+          ticks: {
+            beginAtZero:true
+          }
+        }]
+      }
+    }
+  });
+
+
+  var ctz2 = document.getElementById("chart_seccion_total2");
+
+  var data2 = {
+    labels: [
+    "Usuario Orgánico",
+    "Desconocido"
+    ],
+    datasets: [
+    {
+      data: [78, 37],
+      backgroundColor: [
+      "#84D0D0",
+      "#B2B3B7"
+      ],
+      hoverBackgroundColor: [
+      "#0199A4",
+      "#4C4D4F"
+      ]
+    }]
+  };
+
+  var myDoughnutChart = new Chart(ctz2, {
+    type: 'doughnut',
+    data: data2,
+    options: {
+      animation:{
+        animateScale:true
+      }
+    }
+  });
+</script>

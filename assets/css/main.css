@@ -2072,10 +2072,12 @@ span.num {
   font-size: 26px;
   text-transform: none;
   font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
 }
 
 .text-collection{
   color: #000;
+  text-align: left;
 }
 
 .tarjetas{
@@ -2086,4 +2088,12 @@ span.num {
   background-color: #fff;
   border: 1px solid #e0e0e0;
   border-radius: 2px;
+}
+
+@media only screen and (max-width: 1237px){
+  .title-collection,
+  .tarjetitas,
+  .text-collection{
+    text-align: center;
+  }
 }
