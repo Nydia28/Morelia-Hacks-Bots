@@ -19,24 +19,7 @@
                 <div class="clearfix nav-wrapper">
                   <a href="#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="assets/images/logo.png" alt="">
                   </a>
-                  <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
-                  <ul class="right static-menu">
-                    <li class="search-form-li">
-                      <a id="initSearchIcon" class=""><i class="mdi-action-search"></i> </a>
-                      <div class="search-form-wrap hide">
-                        <form action="#" class="">
-                          <input type="search" class="search">
-                          <button type="submit"><i class="mdi-action-search"></i>
-                          </button>
-                        </form>
-                      </div>
-                    </li>
-                    <li>
-                      <a class="dropdown-button blog-submenu-init" href="#!" data-activates="dropdown1">
-                        <i class="mdi-navigation-more-vert right"></i>
-                      </a>
-                    </li>
-                  </ul>
+                  <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="fa fa-bars" aria-hidden="true"></i></a>
                   <ul class="inline-menu side-nav" id="mobile-demo">
 
                   <!-- Mini Profile // only visible in Tab and Mobile -->

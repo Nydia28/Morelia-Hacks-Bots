@@ -1,5 +1,3 @@
-
-
 <!-- Home Section start -->
 <section id="home" class="scroll-section root-sec grey lighten-5 home-wrap">
   <div class="sec-overlay">
@@ -9,26 +7,32 @@
           <div class="home-inner">
             <div class="center-align home-content">
               <h1 class="home-title">Monitor <span>Ciudadano</span></h1>
-              <h2 class="home-subtitle">UX/UI Designer from Dhaka, Bangladesh</h2>
-              <a href="#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">
-              <i class="fa fa-hand-o-down" aria-hidden="true"></i>Servidores Publicos</a>
+              <h2 class="home-subtitle">Conoce a los que te representan</h2>
+              <div class="col-sm-3 col-md-offset-2">
+                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos </a>
+              </div>
+              <div class="col-sm-3 col-md-offset-2">
+                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"> Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <!-- .container end -->
-    <div class="section-call-to-area">
-      <div class="container">
-        <div class="row">
-          <a href="#about" class="btn-floating btn-large button-middle call-to-about section-call-to-btn animated btn-up btn-hidden" data-section="#about">
-            <i class="mdi-navigation-expand-more"></i>
-          </a>
-        </div>
-      </div>
-      <!-- .container end -->
+  </div>
+</div>
+<!-- .container end -->
+<div class="section-call-to-area">
+  <div class="container">
+    <div class="row">
+      <a href="#about" class="btn-floating btn-large button-middle call-to-about section-call-to-btn animated btn-up btn-hidden" data-section="#about">
+        <i class="mdi-navigation-expand-more"></i>
+      </a>
     </div>
   </div>
+  <!-- .container end -->
+</div>
+</div>
 </section>
 <!-- #home Section end -->
 
@@ -50,7 +54,7 @@
 
           <div class="col-sm-6 col-md-4">
             <div class="person-img wow fadeIn">
-              <img class="z-depth-1" src="images/person.jpg" alt="">
+              <img class="z-depth-1" src="assets/images/person.jpg" alt="">
             </div>
           </div>
           <!-- about me image -->
