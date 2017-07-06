@@ -8,9 +8,9 @@
             <div class="col-sm-12">
               <div class="home-inner">
                   <div class="center-align home-content">
-                    <h1 class="home-title">HI! I'm <span>John Doe</span></h1>
+                    <h1 class="home-title">Monitor <span>Ciudadano</span></h1>
                     <h2 class="home-subtitle">UX/UI Designer from Dhaka, Bangladesh</h2>
-                    <a href="#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Hire Me <i class="mdi-content-send left"></i>
+                    <a href="#contact" class="hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Servidores Publicos <i class="mdi-content-send left"></i>
                     </a>
                   </div>
               </div>
@@ -346,7 +346,7 @@
                                   <p>Apple.inc</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -369,7 +369,7 @@
                                   <p>Android One</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -392,7 +392,7 @@
                                   <p>Android One</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -415,7 +415,7 @@
                                   <p>Windows Phone</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -438,7 +438,7 @@
                                   <p>Windows Phone</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -495,7 +495,7 @@
                                   <p>Oxford University</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -520,7 +520,7 @@
                                   <p>Oxford University</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -545,7 +545,7 @@
                                   <p>Oxford College</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -570,7 +570,7 @@
                                   <p>Oxford School</p>
                                 </div>
                                 <p class="rev-content">
-                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                  Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                                 </p>
                               </div>
                             </div>
@@ -636,7 +636,7 @@
           <div class="row">
             <div class="col-sm-12">
               <ul class="clearfix protfolio-item" id="protfolio-msnry">
-              
+
               <!-- Single Portfolio-->
                 <li class="single-port-item category-1 category-3">
                   <a href="#portfolioModal" class="waves-effect waves-block waves-light modal-trigger" data-image-source="http://placehold.it/650x350" data-title="Your awesome portfolio title" data-content="A portfolio is a collection of documents and writing that you assemble in order to demonstrate that you have the appropriate prior." data-demo-link="#"> <!-- Portfolio pop-up content-->
@@ -777,7 +777,7 @@
                                 <p>UX UI Designer</p>
                               </div>
                               <p class="rev-content">
-                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                               </p>
                             </div>
                           </div>
@@ -799,7 +799,7 @@
                                 <p>Front End Developer</p>
                               </div>
                               <p class="rev-content">
-                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                               </p>
                             </div>
                           </div>
@@ -821,7 +821,7 @@
                                 <p>Front End Developer</p>
                               </div>
                               <p class="rev-content">
-                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                               </p>
                             </div>
                           </div>
@@ -843,7 +843,7 @@
                                 <p>Front End Developer</p>
                               </div>
                               <p class="rev-content">
-                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                               </p>
                             </div>
                           </div>
@@ -865,7 +865,7 @@
                                 <p>Team Manager</p>
                               </div>
                               <p class="rev-content">
-                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                               </p>
                             </div>
                           </div>
@@ -887,7 +887,7 @@
                                 <p>Team Manager</p>
                               </div>
                               <p class="rev-content">
-                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing. 
+                                Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
                               </p>
                             </div>
                           </div>
@@ -1232,4 +1232,3 @@
       </div>
     </section>
     <!-- #contact Section end -->
-
