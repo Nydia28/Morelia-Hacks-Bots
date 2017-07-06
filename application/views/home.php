@@ -47,7 +47,15 @@
             <h3 class="about-subtitle">Alfonso Martínez</h3>
             <p>Presidente Municipal de Morelia</p>
             <p>Descripciòn del candidato</p>
+
+            <a href="#" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="#" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="#" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-google" aria-hidden="true"></i></a>
+
           </div>
+
+
+
         </div>
         <!-- about me description -->
 
@@ -61,18 +69,16 @@
         <div class="col-sm-6 col-md-4">
           <div class="person-info">
             <h3 class="about-subtitle">Información Personal</h3>
-            <h5><span>Name :</span> John Doe</h5>
-            <h5><span>Age :</span> 25 Years</h5>
-            <h5><span>Phone :</span> +0123456789</h5>
-            <h5><span>Email :</span> email@domain.com</h5>
-            <h5><span>Address :</span> Dhaka, Bangladesh</h5>
+            <h5><span>Nombre:</span> Alfonso</h5>
+            <h5><span>Telefono:</span> 54316254316</h5>
+            <h5><span>Dirección:</span> Morelia</h5>
+            <h5><span>Correo:</span> email@alfonso.com</h5>
+            <h5><span>Seguidores:</span> 10,000</h5>
+            <h5><span>Siguiendo:</span> 500</h5>
           </div>
 
           <div class="about-social">
             <ul>
-              <li>
-                <a href="#" class="btn-floating waves-effect waves-light white"><i class="fa fa-facebook"></i></a>
-              </li>
               <li>
                 <a href="#" class="btn-floating waves-effect waves-light white"><i class="fa fa-twitter"></i></a>
               </li>
