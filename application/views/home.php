@@ -103,8 +103,8 @@
           <div class="clearfix skill-inner">
             <div class="col-sm-12 col-md-3">
               <div class="skill-left">
-                <h5 class="title">Publicaciones de los ultimos 30 días</h5>
-                <p class="regular-text">A continuación presentamos la interacción con las redes sociales de los seguidores mas comunes del funcionario</p>
+                <h5 class="title">Los ultimos 30 días</h5>
+                <p class="regular-text">A continuación presentamos la interacción en las redes sociales de los seguidores mas comunes del funcionario</p>
               </div>
             </div>
 

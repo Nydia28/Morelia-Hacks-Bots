@@ -1,10 +1,10 @@
-  <!-- Preloader --> 
+  <!-- Preloader -->
     <div id="preloader">
       <div class="loader">
             <svg class="circle-loader" height="50" width="50">
               <circle class="path" cx="25" cy="25" r="20" fill="none" stroke-width="6" stroke-miterlimit="10" />
             </svg>
-        </div>    
+        </div>
     </div><!--preloader end-->
 
   <!-- Main Container -->
@@ -34,28 +34,13 @@
                     </li><!-- mini profile end-->
 
 
-                    <li><a href="#about" data-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>About Me</a>
+                    <li><a href="#about" data-section="#about" class="menu-smooth-scroll"><i class="fa fa-user fa-fw"></i>Servidores Públicos</a>
                     </li>
-                    <li><a href="#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Resume</a>
+                    <li><a href="#resume" data-section="#resume" class="menu-smooth-scroll"><i class="fa fa-file-text fa-fw"></i>Candidatos</a>
+                    </li>                                
+                    <li><a href="blog-with-sidebar.html">A cerca de nosotros</a>
                     </li>
-                    <li><a href="#portfolio" data-section="#portfolio" class="menu-smooth-scroll"><i class="fa fa-briefcase fa-fw"></i>Portfolio</a>
-                    </li>
-                    <li><a href="#team" data-section="#team" class="menu-smooth-scroll"><i class="fa fa-users fa-fw"></i>Team</a>
-                    </li>
-                    <li><a href="#testimonial" data-section="#testimonial" class="menu-smooth-scroll"><i class="fa fa-comments fa-fw"></i>Testimonial</a>
-                    </li>
-                    <li><a href="#blog" data-section="#blog" class="menu-smooth-scroll"><i class="fa fa-pencil fa-fw"></i>Blog</a>
-                    </li>
-                    <li><a href="#contact" data-section="#contact" class="menu-smooth-scroll"><i class="fa fa-paper-plane fa-fw"></i>Contact</a>
-                    </li>
-                  </ul>
-                  <ul id="dropdown1" class="inline-menu submenu-ul dropdown-content">
-                    <li>Home</li>
-                    <li><a href="blog.html">All Blog</a>
-                    </li>
-                    <li><a href="blog-with-sidebar.html">Blog with Sidebar</a>
-                    </li>
-                    <li><a href="single.html">Single Blog</a>
+                    <li><a href="single.html">Iniciar Sesión</a>
                     </li>
                   </ul>
 
