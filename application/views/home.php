@@ -1,5 +1,3 @@
-
-
 <!-- Home Section start -->
 <section id="home" class="scroll-section root-sec grey lighten-5 home-wrap">
   <div class="sec-overlay">
@@ -42,8 +40,6 @@
     <div class="row">
       <div class="clearfix about-inner">
 
-
-
         <div class="row">
           <div class="col s12">
             <ul class="tabs">
@@ -52,8 +48,6 @@
               <li class="tab col s4"><a href="#twitter">Twitter</a></li>
             </ul>
           </div>
-
-
 
           <div id="infopersonal" class="col s12" style="display: block;padding-top: 4%;">
             <div class="col-sm-12 col-md-4">
@@ -138,8 +132,8 @@
             <div class="row">
               <div class="clearfix section-head experience-text">
                 <div class="col-sm-12">
-                  <h2 class="title">Experience</h2>
-                  <p class="regular-text">Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.</p>
+                  <h2 class="title">Experiencia</h2>
+                  <p class="regular-text">Lo que nuestros usuarios cuentan</p>
                 </div>
               </div>
               <div class="col-lg-12">
@@ -1077,7 +1071,7 @@
       ],
       borderWidth: 1,
       data: [7800],
-    } ,   
+    } ,
 
     {
       label: "Peñabots",
