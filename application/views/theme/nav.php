@@ -57,7 +57,7 @@
             <div class="nav-inner">
               <nav class="primary-nav">
                 <div class="clearfix nav-wrapper">
-                  <a href="#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="images/logo.png" alt="">
+                  <a href="#home" class="left brand-logo menu-smooth-scroll" data-section="#home"><img src="assets/images/logo.png" alt="">
                   </a>
                   <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
                   <ul class="right static-menu">
@@ -83,7 +83,7 @@
                     <li class="mobile-profile">
                      <div class="profile-inner">
                         <div class="pp-container">
-                            <img src="images/person.jpg" alt="">
+                            <img src="assets/images/person.jpg" alt="">
                         </div>
                         <h3>John Doe</h3>
                         <h5>Creative UI/UX Expert</h5>
