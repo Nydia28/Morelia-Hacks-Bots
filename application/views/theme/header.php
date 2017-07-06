@@ -34,6 +34,8 @@
   <link rel="stylesheet" href="<?php echo base_url();?>assets/css/main.css">
   <link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
 
+  <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
   <!-- Choose your default colors -->
   <link rel="stylesheet" href="<?php echo base_url();?>assets/css/color1.css">
   <!-- <link rel="stylesheet" href="assets/css/colors/color2.css"> -->
@@ -46,7 +48,7 @@
 
   <!--[if lt IE 9]>
       <script src="assets/js/html5shiv.js"></script>
-  <![endif]-->
-</head>
+      <![endif]-->
+    </head>
 
-<body>
+    <body>
