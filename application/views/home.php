@@ -14,7 +14,7 @@
                 <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
               </div>
               <div class="col-sm-3 col-md-offset-2">
-                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
+                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Candidatos1 <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
