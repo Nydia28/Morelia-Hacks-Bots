@@ -1,5 +1,3 @@
-
-
 <!-- Home Section start -->
 <section id="home" class="scroll-section root-sec grey lighten-5 home-wrap">
   <div class="sec-overlay">
@@ -14,7 +12,10 @@
                 <a href="inicio/publicos" class="col-sm-12 btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
               </div></a>
               <div class="col-sm-3 col-md-offset-2">
+<<<<<<< HEAD
                 <a href="inicio/candidatos" class="col-sm-12 btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
+=======
+>>>>>>> origin/master
               </div>
             </div>
           </div>
@@ -42,8 +43,6 @@
     <div class="row">
       <div class="clearfix about-inner">
 
-
-
         <div class="row">
           <div class="col s12">
             <ul class="tabs">
@@ -52,8 +51,6 @@
               <li class="tab col s4"><a href="#twitter">Twitter</a></li>
             </ul>
           </div>
-
-
 
           <div id="infopersonal" class="col s12" style="display: block;padding-top: 4%;">
             <!-- about me description -->
@@ -138,8 +135,13 @@
             <div class="row">
               <div class="clearfix section-head experience-text">
                 <div class="col-sm-12">
+<<<<<<< HEAD
+                  <h2 class="title">Experiencia</h2>
+                  <p class="regular-text">Lo que nuestros usuarios cuentan</p>
+=======
                   <h2 class="title">Top 10 Followers</h2>
                   <p class="regular-text">Descubre quienes son los usuarios que más impactan en twitter.</p>
+>>>>>>> 6ae421e8cbb464217f893bf9967dd0068fcddaf4
                 </div>
               </div>
               <div class="col-lg-12">
@@ -1002,7 +1004,7 @@
       ],
       borderWidth: 1,
       data: [7800],
-    } ,   
+    } ,
 
     {
       label: "Peñabots",

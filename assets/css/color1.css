@@ -19,11 +19,9 @@
     background-color: rgba(0, 188, 212, 0.9);
 }
 
-
 .circle-loader .path {
     stroke: #00bcd4;
 }
-
 
 .side-nav  li.current a,
 .side-nav  li a:hover {
