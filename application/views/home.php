@@ -10,10 +10,10 @@
             <div class="center-align home-content">
               <h1 class="home-title">Monitor <span>Ciudadano</span></h1>
               <h2 class="home-subtitle">Conoce a los que te representan</h2>
-              <div class="col-sm-3 col-md-offset-2">                    
+              <div class="col-sm-3 col-md-offset-2">
               <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
               </div>
-              <div class="col-sm-3 col-md-offset-2">                    
+              <div class="col-sm-3 col-md-offset-2">
                 <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
               </div>
             </div>
@@ -103,8 +103,8 @@
           <div class="clearfix skill-inner">
             <div class="col-sm-12 col-md-3">
               <div class="skill-left">
-                <h2 class="title">Skills</h2>
-                <p class="regular-text">Man behind the gun, any sophisticated weapons. Human remains that taking the role. We are experienced in utilizing all resources.</p>
+                <h5 class="title">Publicaciones de los ultimos 30 días</h5>
+                <p class="regular-text">A continuación presentamos la interacción con las redes sociales de los seguidores mas comunes del funcionario</p>
               </div>
             </div>
 
