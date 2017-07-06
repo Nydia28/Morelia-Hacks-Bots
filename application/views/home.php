@@ -12,7 +12,6 @@
                 <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text"><i class="fa fa-hand-o-down" aria-hidden="true"></i> Servidores Públicos</a>
               </div>
               <div class="col-sm-3 col-md-offset-2">
-                <a href="#contact" class="col-sm-12 hire-me-btn btn waves-effect waves-light btn-large brand-bg white-text regular-text">Candidatos <i class="fa fa-hand-o-down" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>
@@ -132,8 +131,13 @@
             <div class="row">
               <div class="clearfix section-head experience-text">
                 <div class="col-sm-12">
+<<<<<<< HEAD
                   <h2 class="title">Experiencia</h2>
                   <p class="regular-text">Lo que nuestros usuarios cuentan</p>
+=======
+                  <h2 class="title">Top 10 Followers</h2>
+                  <p class="regular-text">Descubre quienes son los usuarios que más impactan en twitter.</p>
+>>>>>>> 6ae421e8cbb464217f893bf9967dd0068fcddaf4
                 </div>
               </div>
               <div class="col-lg-12">
@@ -143,7 +147,7 @@
                     <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
                   </div>
                   <div class="tarjetitas col-sm-10">
-                    <span class="title-collection">1.- @juan_perez</span>
+                    <a class="title-collection" href="#">1.- @juan_perez</a>
                     <p class="text-collection"># de Reteewts<br>
                      # de Me gusta
                    </p>
@@ -155,7 +159,7 @@
                   <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
                 </div>
                 <div class="tarjetitas col-sm-10">
-                  <span class="title-collection">2.- @pedro_suarez</span>
+                  <a class="title-collection" href="#">2.- @pedro_suarez</a>
                   <p class="text-collection "># de Reteewts<br>
                    # de Me gusta
                  </p>
@@ -167,7 +171,7 @@
                 <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
               </div>
               <div class="tarjetitas col-sm-10">
-                <span class="title-collection">3.- @alberto_lopez</span>
+                <a class="title-collection" href="#">3.- @alberto_lopez</a>
                 <p class="text-collection"># de Reteewts<br>
                  # de Me gusta
                </p>
@@ -190,125 +194,51 @@
           <div class="row">
             <div class="clearfix section-head education-text">
               <div class="col-sm-12">
-                <h2 class="title">education</h2>
-                <p class="regular-text">Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.</p>
+                <h2 class="title">Top 10 Fans</h2>
+                <p class="regular-text">Descubre quienes son los usuarios que más impactan en facebook.</p>
               </div>
             </div>
             <div class="col-lg-12">
-              <div class="overflow-hidden">
-                <div class="row">
-                  <div id="educationSlider" class="clearfix card-element-wrapper">
-
-                    <!-- single education -->
-                    <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-duration=".7s">
-                      <div class="card">
-                        <div class="card-image waves-effect waves-block waves-light">
-                          <h2 class="left-align card-title-top">20011 - 2012</h2>
-                          <div class="card-img-wrap">
-                            <img class="activator" src="images/grad-cap.png" alt="">
-                          </div>
-                        </div>
-                        <div class="card-content">
-                          <span class="card-title activator brand-text">Masters of Science<i class="mdi-navigation-more-vert right"></i></span>
-                          <p>Oxford University</p>
-                        </div>
-                        <!-- Reveal content-->
-                        <div class="card-reveal">
-                          <div class="rev-title-wrap">
-                            <span class="card-title activator brand-text">Masters of Science<i class="mdi-navigation-close right"></i></span>
-                            <p>Oxford University</p>
-                          </div>
-                          <p class="rev-content">
-                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                          </p>
-                        </div>
-                      </div>
-                    </div> <!-- single education end -->
-
-                    <!-- single education -->
-                    <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-delay=".2s" data-wow-duration=".7s">
-                      <div class="card">
-                        <div class="card-image waves-effect waves-block waves-light">
-                          <h2 class="left-align card-title-top">2005 - 2007</h2>
-                          <div class="card-img-wrap">
-                            <img class="activator" src="images/grad-cap.png" alt="">
-                          </div>
-                        </div>
-                        <div class="card-content">
-                          <span class="card-title activator brand-text">Bachelor of Science<i class="mdi-navigation-more-vert right"></i></span>
-                          <p>Oxford University</p>
-                        </div>
-                        <div class="card-reveal">
-                          <div class="rev-title-wrap">
-                            <span class="card-title activator brand-text">Bachelor of Science<i class="mdi-navigation-close right"></i></span>
-                            <p>Oxford University</p>
-                          </div>
-                          <p class="rev-content">
-                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                          </p>
-                        </div>
-                      </div>
-                    </div> <!-- single education -->
-
-                    <!-- single education -->
-                    <div class="col-sm-4 single-card-box wow fadeInUpSmall" data-wow-delay=".4s" data-wow-duration=".7s">
-                      <div class="card">
-                        <div class="card-image waves-effect waves-block waves-light">
-                          <h2 class="left-align card-title-top">2005 - 2007</h2>
-                          <div class="card-img-wrap">
-                            <img class="activator" src="images/grad-cap.png" alt="">
-                          </div>
-                        </div>
-                        <div class="card-content">
-                          <span class="card-title activator brand-text">A Level<i class="mdi-navigation-more-vert right"></i></span>
-                          <p>Oxford College</p>
-                        </div>
-                        <div class="card-reveal">
-                          <div class="rev-title-wrap">
-                            <span class="card-title activator brand-text">A Level<i class="mdi-navigation-close right"></i></span>
-                            <p>Oxford College</p>
-                          </div>
-                          <p class="rev-content">
-                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                          </p>
-                        </div>
-                      </div>
-                    </div> <!-- single education -->
-
-                    <!-- single education -->
-                    <div class="col-sm-4 single-card-box">
-                      <div class="card">
-                        <div class="card-image waves-effect waves-block waves-light">
-                          <h2 class="left-align card-title-top">1995 - 2005</h2>
-                          <div class="card-img-wrap">
-                            <img class="activator" src="images/grad-cap.png" alt="">
-                          </div>
-                        </div>
-                        <div class="card-content">
-                          <span class="card-title activator brand-text">O Level<i class="mdi-navigation-more-vert right"></i></span>
-                          <p>Oxford School</p>
-                        </div>
-                        <div class="card-reveal">
-                          <div class="rev-title-wrap">
-                            <span class="card-title activator brand-text">O Level<i class="mdi-navigation-close right"></i></span>
-                            <p>Oxford School</p>
-                          </div>
-                          <p class="rev-content">
-                            Collaboratively initiate collaborative schemas for high-quality communities. Objectively create sticky relationships via team building outsourcing.
-                          </p>
-                        </div>
-                      </div>
-                    </div> <!-- single education -->
+                <div class=" tarjetas col-sm-12 z-depth-4">
+                  <div class="tarjetitas col-sm-2">
+                    <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
                   </div>
+                  <div class="tarjetitas col-sm-10">
+                    <a class="title-collection" href="#">1.- @juan_perez</a>
+                    <p class="text-collection"># de Reacciones<br>
+                     # de Comentarios
+                   </p>
+                 </div>
+               </div>
+
+               <div class=" tarjetas col-sm-12 z-depth-4">
+                <div class="tarjetitas col-sm-2">
+                  <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
                 </div>
+                <div class="tarjetitas col-sm-10">
+                  <a class="title-collection" href="#">2.- @pedro_suarez</a>
+                  <p class="text-collection "># de Reacciones<br>
+                   # de Comentarios
+                 </p>
+               </div>
+             </div>
+
+             <div class=" tarjetas col-sm-12 z-depth-4">
+              <div class="tarjetitas col-sm-2">
+                <img src="assets/images/person.jpg" alt="" class="circle z-depth-3" style="max-height: 94px;">
               </div>
+              <div class="tarjetitas col-sm-10">
+                <a class="title-collection" href="#">3.- @alberto_lopez</a>
+                <p class="text-collection"># de Reacciones<br>
+                 # de Comentarios
+               </p>
+             </div>
+           </div>
+
             </div>
           </div>
         </div>
-        <div class="btn-wrapp edu-ctrl">
-          <a class="btn-floating waves-effect waves-light btn-large brand-bg go go-left"><i class="mdi-navigation-chevron-left"></i></a>
-          <a class="btn-floating waves-effect waves-light btn-large brand-bg go go-right"><i class="mdi-navigation-chevron-right"></i></a>
-        </div>
+
       </div>
     </div>
   </div>
@@ -886,14 +816,14 @@
           <div class="row">
             <div class="clearfix section-head contact-text">
               <div class="col-sm-12">
-                <h2 class="title">Contact</h2>
-                <p class="regular-text">Collins Street West Victoria 8007 Australia</p>
+                <h2 class="title">Contacto</h2>
+                <p class="regular-text">Av. Mariano Otero 1499, Verde Valle, 44550 Guadalajara, Jal.</p>
                 <ul class="clearfix contact-info">
-                  <li><a href="">+880 1234 567890</a>
+                  <li><a href="">01 33 3343 3000</a>
                   </li>
-                  <li><a href="">support@website.net</a>
+                  <li><a href="">expo@expoguadalajara.mx</a>
                   </li>
-                  <li><a href="">www.website.net</a>
+                  <li><a href="">expoguadalajara.mx</a>
                   </li>
                 </ul>
               </div>
@@ -914,7 +844,7 @@
                   <form action="#" id="contactForm" novalidate>
                     <div class="input-field">
                       <input id="contact_name" type="text" name="contactName" class="validate input-box">
-                      <label for="contact_name" class="input-label">Name</label>
+                      <label for="contact_name" class="input-label">Nombre</label>
                     </div>
                     <div class="input-field">
                       <input id="email" type="email" name="contactEmail" class="validate input-box">
@@ -922,14 +852,14 @@
                     </div>
                     <div class="input-field">
                       <input id="subject" type="text" name="contactSubject" class="validate input-box">
-                      <label for="subject" class="input-label">Subject</label>
+                      <label for="subject" class="input-label">Asunto</label>
                     </div>
                     <div class="input-field textarea-input">
                       <textarea id="textarea1" name="contactMessage" class="validate materialize-textarea" style="height: 22px;"></textarea>
-                      <label for="textarea1" class="input-label">Message</label>
+                      <label for="textarea1" class="input-label">Mensaje</label>
                     </div>
                     <div class="input-field submit-wrap clearfix">
-                      <button type="submit" class="left waves-effect btn-flat brand-text submit-btn">send message</button>
+                      <button type="submit" class="left waves-effect btn-flat brand-text submit-btn">Enviar</button>
                       <div class="right form-loader-area">
                         <svg class="circular size-20" height="20" width="20">
                           <circle class="path" cx="10" cy="10" r="7" fill="none" stroke-width="3" stroke-miterlimit="10" />
@@ -1059,15 +989,15 @@
   var ctz = document.getElementById("chart_seccion_total");
 
   var data = {
-    labels: ["Estado financiero"],
+    labels: ["Robots en redes sociales"],
     datasets: [
     {
       label: "Bots",
       backgroundColor: [
-      'rgba(255, 159, 64, 0.2)'
+      'rgba(132, 208, 208, 0.2)'
       ],
       borderColor: [
-      'rgba(255, 159, 64, 1)'
+      'rgba(22, 135, 169, 1)'
       ],
       borderWidth: 1,
       data: [7800],
@@ -1076,10 +1006,10 @@
     {
       label: "Peñabots",
       backgroundColor: [
-      'rgba(105, 105, 105, 0.2)'
+      'rgba(167, 204, 98, 0.2)'
       ],
       borderColor: [
-      'rgba(105, 105, 105, 1)'
+      'rgba(111, 172, 68, 1)'
       ],
       borderWidth: 1,
       data: [1029],
