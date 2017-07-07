@@ -86,7 +86,6 @@
               <canvas id="chart_seccion_parcial" width="350" height="200"></canvas>
             </div>
           </div>
-
           <div id="twitter" class="col s12" style="display: block;padding-top: 4%;">
             <div class="col m6 s12 offset-m3" >
               <canvas id="chart_seccion_total" width="350" height="200"></canvas>
@@ -108,13 +107,18 @@
       <div class="container">
         <div class="row">
           <div class="clearfix skill-inner">
-            <div class="col-sm-12 col-md-3">
+            <div class="col-sm-12 col-md-6">
               <div class="skill-left">
-                <h5 class="title">Los ultimos 30 días</h5>
-                <p class="regular-text">A continuación presentamos la interacción en las redes sociales de los seguidores mas comunes del funcionario</p>
+                <h2 class="title">Facebook</h2>
+                <div class="collection">
+                  <a href="#" class="collection-item"><span class="new badge red">Usuario</span>Alfonzo Martinez</a>
+                  <a href="#" class="collection-item"><span class="new badge red">4098</span>Likers</a>
+                  <a href="#" class="collection-item"><span class="new badge red">1498</span>Followers</a>
+                </div>
               </div>
             </div>
-            <div class="col-sm-12 col-md-8 col-md-offset-1" style="margin-top: 10%">
+            <div class="col-sm-12 col-md-6" style="margin-top: 11.5%">
+              <h2 class="title">Los ultimos 30</h2>
               <canvas id="chart_seccion_total2" width="200" height="100"></canvas>
             </div>
           </div>
@@ -1057,6 +1061,8 @@
       }
     }
   });
+
+
 </script>
 
 <script>

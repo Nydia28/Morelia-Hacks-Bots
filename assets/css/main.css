@@ -624,7 +624,7 @@ header.nav.hide-menu {
 
 .home-content > a.btn-large {
   height: 45px;
-  line-height: 45px;    
+  line-height: 45px;
 }
 
 
@@ -2105,4 +2105,21 @@ span.num {
     color: #000;
     font-size: 24px;
     font-weight: 500;
+}
+
+
+.tabla_facebook{
+  color: rgb(0, 18, 179);
+}
+
+/*media screen,projection*/
+span.badge.new::after {
+    content: none;
+}
+
+.title, .title-collection {
+  text-transform: none;
+  font-weight: normal;
+  color: rgba(0, 10, 247, 0.65);
+  text-align: center;
 }
