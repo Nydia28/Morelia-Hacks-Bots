@@ -13,26 +13,13 @@
 
 
 <script>
-	function onSuccess(googleUser) {
-		console.log('Logged in as: ' + googleUser.getBasicProfile().getName());
-	}
-	function onFailure(error) {
-		console.log(error);
-	}
-	function renderButton() {
-      gapi.signin2.render('my-signin2', {
-        'scope': 'YOUR_CLIENT_ID.apps.googleusercontent.com',
-        'width': 240,
-        'height': 40,
-        'longtitle': true,
-        'theme': 'light',
-        'onsuccess': onSuccess,
-        'onfailure': onFailure
-      });
-    }
-    
+  function signOut() {
+    var auth2 = gapi.auth2.getAuthInstance();
+    auth2.signOut().then(function () {
+      console.log('User signed out.');
+    });
+  }
 </script>
-
 <script>
 	function onSignIn(googleUser) {
 		var profile = googleUser.getBasicProfile();
