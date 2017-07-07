@@ -1,7 +1,7 @@
 
 
 <script src="https://apis.google.com/js/platform.js" async defer></script>
-<script src="https://apis.google.com/js/platform.js?onload=renderButton" async defer></script>
+<script src="https://apis.google.com/js/platform.js?onload=renderButton," async defer></script>
 
 <script>(function(d, s, id) {
 	var js, fjs = d.getElementsByTagName(s)[0];
@@ -20,16 +20,17 @@
 		console.log(error);
 	}
 	function renderButton() {
-		gapi.signin2.render('my-signin', {
-			'scope': 'profile email',
-			'width': 240,
-			'height': 40,
-			'longtitle': true,
-			'theme': 'light',
-			'onsuccess': onSuccess,
-			'onfailure': onFailure
-		});
-	}
+      gapi.signin2.render('my-signin2', {
+        'scope': 'YOUR_CLIENT_ID.apps.googleusercontent.com',
+        'width': 240,
+        'height': 40,
+        'longtitle': true,
+        'theme': 'light',
+        'onsuccess': onSuccess,
+        'onfailure': onFailure
+      });
+    }
+    
 </script>
 
 <script>

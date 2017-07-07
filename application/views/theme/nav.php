@@ -1,4 +1,6 @@
   <!-- Preloader -->
+  <meta name="google-signin-client_id" content="YOUR_CLIENT_ID.apps.googleusercontent.com">
+
   <div id="preloader">
     <div class="loader">
       <svg class="circle-loader" height="50" width="50">
@@ -62,6 +64,12 @@
           <div class="divider"></div>     
         </div>
         <div class="col l12">
+          
+            <div class="group">
+              <center><div class="fb-login-button" data-max-rows="1" data-size="large" data-width="205px" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="false"></div>
+                <br><br>
+                <div  id="my-signin2"></div></center>
+            </div>
 
         </div>
       </div>
