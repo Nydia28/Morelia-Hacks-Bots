@@ -10,19 +10,21 @@ class Inicio extends CI_Controller {
         $this->load->library(array('form_validation','session'));
     }
 
-	public function index()
-	{
+    public function index()
+    {
         $this->load->view('theme/header');
         $this->load->view('theme/nav');
-		$this->load->view('inicio');
+        $this->load->view('inicio');
+        $this->load->view('theme/scripts');
         $this->load->view('theme/footer');
-	}
+    }
 
     public function publicos()
     {
         $this->load->view('theme/header');
         $this->load->view('theme/nav');
         $this->load->view('servidores_publicos');
+        $this->load->view('theme/scripts');
         $this->load->view('theme/footer');
     }
 
@@ -31,6 +33,7 @@ class Inicio extends CI_Controller {
         $this->load->view('theme/header');
         $this->load->view('theme/nav');
         $this->load->view('candidatos');
+        $this->load->view('theme/scripts');
         $this->load->view('theme/footer');
     }
 
@@ -39,6 +42,7 @@ class Inicio extends CI_Controller {
         $this->load->view('theme/header');
         $this->load->view('theme/nav');
         $this->load->view('publicos/federales');
+        $this->load->view('theme/scripts');
         $this->load->view('theme/footer');
     }
 
@@ -47,6 +51,7 @@ class Inicio extends CI_Controller {
         $this->load->view('theme/header');
         $this->load->view('theme/nav');
         $this->load->view('publicos/estatales');
+        $this->load->view('theme/scripts');
         $this->load->view('theme/footer');
     }
 
@@ -55,6 +60,7 @@ class Inicio extends CI_Controller {
         $this->load->view('theme/header');
         $this->load->view('theme/nav');
         $this->load->view('publicos/municipales');
+        $this->load->view('theme/scripts');
         $this->load->view('theme/footer');
     }
 }
