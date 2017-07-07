@@ -68,7 +68,8 @@
             <div class="group">
               <center><div class="fb-login-button" data-max-rows="1" data-size="large" data-width="205px" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="false"></div>
                 <br><br>
-                <div  id="my-signin2"></div></center>
+                <div class="g-signin2" data-onsuccess="onSignIn"></div>
+                </center>
             </div>
 
         </div>

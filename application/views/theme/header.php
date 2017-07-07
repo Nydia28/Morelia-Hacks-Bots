@@ -14,6 +14,7 @@
   <title>Monitor Ciudadano</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+  <meta name="google-signin-client_id" content="871331780199-3e9sqeie2he8utbd8d15p6rpubk537n1.apps.googleusercontent.com">
  
   
 
